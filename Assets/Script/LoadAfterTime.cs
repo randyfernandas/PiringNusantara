@@ -55,6 +55,6 @@ public class LoadAfterTime : MonoBehaviour
         }
         
         // Pindah ke scene baru setelah efek fade-out
-        UnityEngine.SceneManagement.SceneManager.LoadScene("Piring");
+        UnityEngine.SceneManagement.SceneManager.LoadScene("Instruction");
     }
 }

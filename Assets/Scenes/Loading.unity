@@ -352,7 +352,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   delayBeforeLoading: 2
-  sceneNameToLoad: Piring
+  sceneNameToLoad: Instruction
   fadeImage: {fileID: 1068642396}
   fadeSpeed: 0.2
 --- !u!1 &1068642395
@@ -445,7 +445,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   delayBeforeLoading: 2
-  sceneNameToLoad: Piring
+  sceneNameToLoad: Instruction
   fadeImage: {fileID: 1068642396}
   fadeSpeed: 0.5
 --- !u!1 &1194463834
@@ -611,7 +611,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   delayBeforeLoading: 2
-  sceneNameToLoad: 
+  sceneNameToLoad: Instruction
   fadeImage: {fileID: 1402518938}
   fadeSpeed: 1
 --- !u!1 &1425569878
